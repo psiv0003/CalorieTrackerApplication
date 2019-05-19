@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Calorie Tracker</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Label Text-->
+
+    <string name="username_hint">Username</string>
+    <string name="email_hint">Email</string>
+
+    <string name="password_hint">Password</string>
+    <string name="firstname_hint">First Name</string>
+    <string name="last_hint">Last Name</string>
+    <string name="dob_hint">Date of Birth</string>
+    <string name="height_hint">Height</string>
+    <string name="weight_hint">Weight</string>
+    <string name="gender_hint">Gender</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="address">Address</string>
+    <string name="postcode">Postcode</string>
+    <string name="steps">Steps Per Mile</string>
+    <string name="create_account">Create Account</string>
+
+    <string name="activity_level">Level of Activity</string>
+    <string-array name="activitylevel">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string name="signin">Login</string>
+    <string name="sign_up">First time user? Click here to Sign Up!</string>
+    <string name="remember_password">Remember Me</string>
+
+    <string name="cal_goal">Your Calorie Goal for Today</string>
+    <string name="food_category">Select Food Category</string>
+    <string name="food_item">Select Food Item</string>
+    <string name="new_food">Add New Food Item</string>
+    <string name="qty">Quantity</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="google_maps_api_key">AIzaSyBXX1Bu2AF-FoUvdZ62qePgp1mwdtTP_Go</string>
+
+</resources>
